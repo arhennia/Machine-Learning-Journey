@@ -82,3 +82,78 @@ Deep Leaning is a speacilized subset of ML that automatically extracts features 
 
 # Video 2 - ML Implementation
 
+## Objective
+
+* Understand the different types of Machine Learning.
+* Learn the Machine Learning workflow from data preparation to deployment.
+
+---
+
+## How Do Machines Learn?
+
+### 1. Supervised Learning
+
+Supervised Learning uses **labeled data**, where the model learns from input-output pairs.
+
+#### Classification
+
+* Predicts a discrete category or class label.
+* e.g., filtering emails into spam or not spam.
+
+#### Regression
+
+* Predicts a continuous numerical value.
+* e.g., predicting the exact sale price of a house.
+
+---
+
+### 2. Unsupervised Learning
+
+Unsupervised learning deals w unlabeled data. meaning there are no predefined output labels or answers provided to the model.
+
+#### Clustering
+
+* Identifies inherent groupings among data points.
+* Used for customers segmentation or anomaly detection.
+
+#### Association
+
+* Discovers rules that describe relationships b/w variables.
+* Think of people who buy product A also tend to buy product B.
+
+---
+
+### 3. Reinforcement Learning
+
+Dynamic approach where an agent learns to make optimal decisions by interacting with an environment.
+
+---
+
+## Machine Learning Workflow
+
+1. Data Preparation
+2. Model Training
+3. Evaluation
+4. Deployment
+5. Monitoring & Refinement
+
+---
+
+## Example
+
+### Supervised Learning
+
+* Predicting house prices
+* Spam email detection
+
+### Unsupervised Learning
+
+* Customer segmentation
+* Market basket analysis
+
+### Reinforcement Learning
+
+* Self-driving cars
+* Game-playing AI
+
+
