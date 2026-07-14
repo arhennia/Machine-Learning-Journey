@@ -2,8 +2,8 @@
 
 ## Videos
 
-- [ ] Introduction
-- [ ] ML Implementation
+- [x] Introduction
+- [x] ML Implementation
 - [ ] Data Structures
 - [ ] Data Structures II
 - [ ] Data Structures III
