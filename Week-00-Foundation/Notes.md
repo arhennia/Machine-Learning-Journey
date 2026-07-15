@@ -157,3 +157,5 @@ Dynamic approach where an agent learns to make optimal decisions by interacting 
 * Game-playing AI
 
 
+# Video 3 - Data Structures
+
