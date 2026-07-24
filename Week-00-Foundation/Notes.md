@@ -159,3 +159,9 @@ Dynamic approach where an agent learns to make optimal decisions by interacting 
 
 # Video 3 - Data Structures
 
+basically the basics of data structures nothing more than that ive updated the notes of that in Practice.ipynb
+
+# Video 4 - Data Structures 1
+
+its the next phase of the basics in data structures ill follow along in the file of Practice.ipynb only
+
