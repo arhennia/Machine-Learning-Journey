@@ -188,7 +188,31 @@ This video covers the fundamentals of Python programming.
 
 **Note:** All practice examples are available in `Practice.ipynb`.
 
-# Video 4 - Data Structures 1
+# Video 4 - Python Basics Practice
 
-its the next phase of the basics in data structures ill follow along in the file of Practice.ipynb only
+This video focuses on applying the fundamentals learned previously.
+
+## Topics Covered
+
+### Conditional Statements
+- if
+- if-else
+- if-elif-else
+- Nested if
+
+### Loops
+- for loop
+- while loop
+- range()
+- break
+- continue
+- pass
+
+### Practice
+- User input
+- Conditions
+- Loop-based problems
+- Printing patterns/basic exercises
+
+**Note:** Follow the coding examples in `Practice.ipynb` for hands-on practice.
 
