@@ -157,9 +157,36 @@ Dynamic approach where an agent learns to make optimal decisions by interacting 
 * Game-playing AI
 
 
-# Video 3 - Data Structures
+# Video 3 - Python Basics
 
-basically the basics of data structures nothing more than that ive updated the notes of that in Practice.ipynb
+This video covers the fundamentals of Python programming.
+
+## Topics Covered
+
+- What is Python?
+- Single-line comments (#)
+- Multi-line comments (''' ''' or """ """)
+- Printing output using `print()`
+- Printing multiple values
+- Variables
+- Python Data Types
+  - int
+  - float
+  - str
+  - bool
+- Checking data types using `type()`
+- Taking user input using `input()`
+- Type casting
+  - int()
+  - float()
+  - str()
+- Basic operators
+  - Arithmetic
+  - Comparison
+  - Logical
+  - Assignment
+
+**Note:** All practice examples are available in `Practice.ipynb`.
 
 # Video 4 - Data Structures 1
 
